@@ -1,13 +1,13 @@
 ## 👋 Bonjour 
 ## 🔥 Je me présente :
   Je m'appelle Max, je suis actuellement étudiant en BTS SIO en alternance et je suis passionné par la **Cybersécurité, le Développement et le Web Design.**
-## Mon projet :
-  J'aimerais commencer par apprendre le développement informatique dans un premier temps, puis par la suite me **spécialiser dans la cybersécurité**
-## Mes compétences :
+## 📚 Mon projet :
+  J'aimerais dans un premier temps commencer par **apprendre le développement informatique,** puis par la suite me **spécialiser dans la cybersécurité.**
+## 📈 Mes compétences :
   💻 Langages étudiés :
   - HTML/CSS
   - PHP
-  - JavaScript
+  - JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   - Python
   - SQL
   - Ainsi que quelques notions en base de données
