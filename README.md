@@ -5,11 +5,10 @@
   J'aimerais dans un premier temps commencer par **apprendre le développement informatique,** puis par la suite me **spécialiser dans la cybersécurité.**
 ## 📈 Mes compétences :
   💻 Langages étudiés :
-  - HTML/CSS
-  - PHP
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>&nbsp; JavaScript 
-  - Python
-  - SQL
+
   - Ainsi que quelques notions en base de données
 ## Mon parcours :
 
