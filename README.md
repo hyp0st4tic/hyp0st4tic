@@ -7,7 +7,7 @@
   💻 Langages étudiés :
   - HTML/CSS
   - PHP
-  - JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  - JavaScript <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="40"/>&nbsp;
   - Python
   - SQL
   - Ainsi que quelques notions en base de données
