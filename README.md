@@ -16,7 +16,6 @@
 - 2023 : Diplôme du Baccalauréat STMG Option Système d'information
 ## :fire: Mes stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
-[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxTribouillard)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MaxTribouillard/MaxTribouillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
