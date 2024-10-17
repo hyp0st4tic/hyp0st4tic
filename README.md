@@ -14,7 +14,6 @@
 ## 🎓 Mon parcours :
 - 2024/2025 : BTS SIO à CaenSup en alternance chez Léonard Solutions
 - 2023 : Diplôme du Baccalauréat STMG Option Système d'information
-## Cont
 
 
 <!--
