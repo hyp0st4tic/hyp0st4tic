@@ -15,7 +15,7 @@
 - 2024/2025 : BTS SIO à CaenSup en alternance chez Léonard Solutions
 - 2023 : Diplôme du Baccalauréat STMG Option Système d'information
 ## :fire: Mes stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **MaxTribouillard/MaxTribouillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
