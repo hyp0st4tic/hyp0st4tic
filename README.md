@@ -1,8 +1,8 @@
 # 👋 Hello !
 ## 🔥 About me :
-  My name's Max, I'm currently a BTS SIO student and I'm passionate about **Cybersecurity, Development and Web Design.**.
+  My name's Max, I'm currently a BTS SIO student and I'm passionate about **Cybersecurity, Development and Web Design.**
 ## 📚 My project :
-  I'd like to start by **learning computer development,** and then specialize in **cybersecurity.**.
+  I'd like to start by **learning computer development,** and then specialize in **cybersecurity.**
 ## 📈 Currently learning :
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
