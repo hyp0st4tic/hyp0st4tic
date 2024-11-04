@@ -1,20 +1,18 @@
-# 👋 Bonjour 
-## 🔥 Je me présente :
-  Je m'appelle Max, je suis actuellement étudiant en BTS SIO en alternance et je suis passionné par la **Cybersécurité, le Développement et le Web Design.**
-## 📚 Mon projet :
-  J'aimerais dans un premier temps commencer par **apprendre le développement informatique,** puis par la suite me **spécialiser dans la cybersécurité.**
-## 📈 En train d'étudier :
+# 👋 Hello !
+## 🔥 About me :
+  My name's Max, I'm currently a BTS SIO student and I'm passionate about **Cybersecurity, Development and Web Design.**.
+## 📚 My project :
+  I'd like to start by **learning computer development,** and then specialize in **cybersecurity.**.
+## 📈 Currently learning :
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-
-  - Ainsi que quelques notions en base de données
-## 🎓 Mon parcours :
+## 🎓 Academic career :
 - 2024/2025 : BTS SIO à CaenSup en alternance chez Léonard Solutions
 - 2023 : Diplôme du Baccalauréat STMG Option Système d'information
-## :fire: Mes stats :
+## :fire: My stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 
 <!--
