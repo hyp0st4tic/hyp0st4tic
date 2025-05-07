@@ -10,7 +10,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 ## :fire: My stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hyp0st4tic&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 
 <!--
 **MaxTribouillard/MaxTribouillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
