@@ -9,9 +9,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-## 🎓 Academic career :
-- 2024/2025 : BTS SIO à CaenSup en alternance chez Léonard Solutions
-- 2023 : Diplôme du Baccalauréat STMG Option Système d'information
 ## :fire: My stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaxTribouillard&theme=cobalt&mode=weekly)](https://git.io/streak-stats)
 
