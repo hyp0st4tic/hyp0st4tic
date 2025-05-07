@@ -1,6 +1,7 @@
-# 👋 Hello !
+# 👋 Hello
 ## 🔥 About me :
   I'm passionate about **Cybersecurity, Development and Web Design.**
+  I'm currently learning JS and specializing in **3D WebGL Development** with **BabylonJS**
 ## 📚 My project :
   I'd like to start by **learning computer development,** and then specialize in **cybersecurity.**
 ## 📈 Currently learning :
